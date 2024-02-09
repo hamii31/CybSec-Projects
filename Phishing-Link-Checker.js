@@ -18,4 +18,4 @@ function main(linkA, linkB){
     }
 }
 
-main("https://facebook.com)", "https://facеbook.com");
+main("https://facebook.com", "https://facеbook.com");
